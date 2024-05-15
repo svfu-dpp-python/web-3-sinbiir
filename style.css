@@ -1,0 +1,28 @@
+.main{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    
+}
+
+img{
+    width: 70%;
+    
+}
+
+.col{
+    width: 25%;
+    height: 100%;
+    
+    text-align: center;
+    border-radius: 10px;
+    background-color: bisque;
+}
+
+p1{  
+    padding-top: 25px;
+    size: 16px;
+}
